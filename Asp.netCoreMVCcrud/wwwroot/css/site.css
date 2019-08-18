@@ -54,3 +54,33 @@ body {
   height: 60px;
   line-height: 60px; /* Vertically center the text there */
 }
+
+.nav-right {
+    float: right;
+}
+
+/* Socials */
+.social-login {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 14px;
+}
+
+.social-btn {
+    font-weight: 100;
+    color: white;
+    width: 100%;
+    font-size: 0.9rem;
+}
+
+.facebook-btn {
+    background-color: #3C589C;
+}
+
+.google-btn {
+    background-color: #DF4B3B;
+}
+
+.twitter-btn {
+    background-color: #38A1F3;
+}
